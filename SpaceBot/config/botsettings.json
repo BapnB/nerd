@@ -1,0 +1,19 @@
+{
+  "Capture": {
+    "Fps": 12,
+    "GameWindowTitle": "DarkOrbit"
+  },
+  "Targeting": {
+    "MaxLockDistancePx": 1200,
+    "RetargetCooldownMs": 0
+  },
+  "Collection": {
+    "CollectTimeoutMs": 7000,
+    "RecheckIntervalMs": 120,
+    "ClickCooldownMs": 250
+  },
+  "Hotkeys": {
+    "StartStop": "F6",
+    "Pause": "F7"
+  }
+}
